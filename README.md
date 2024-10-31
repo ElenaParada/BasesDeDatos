@@ -1,31 +1,24 @@
-# **Análisis de Caso Práctico**
+# **Análisis de Restaurante**
 
 ## Contexto
+ El restaurante "Sabores del Mundo", es conocido por su auténtica cocina y su ambiente acogedor.
+ Este restaurante lanzó un nuevo menú a principios de año y ha estado recopilando información detallada sobre las transacciones de los clientes para identificar áreas de oportunidad y aprovechar al máximo sus 
+ datos para optimizar las ventas.
+
+
 ## Objetivo
+Identificar cuáles son los productos del menú que han tenido más éxito y cuales son los que menos han gustado a los clientes.
+
+
 ## Resultados del análisis
+1. El restaurante "Sabores del Mundo" ha recopilado los siguientes datos durante el periodo 01/01/2023 al 31/03/2023.
+![image](https://github.com/user-attachments/assets/db8d6b4f-0910-4735-8dd9-749d7db7b8a2)
+
+2. Su menú consta de una gran variedad de platillos; entre todas estas delicias, podrás disfrutar de platillos de comida Americana, Italiana, Asiática, Mexicana, etc.					
+
+3. Gracias a la preferencia de los clientes, estos son los platillos que han tenido mayor éxito:					
+![image](https://github.com/user-attachments/assets/6020895b-401f-4f9f-a8df-d428f1e57927)
+
+
 ## Herramientas utilizadas
-En este apartado, realizamos consultas usando el lenguaje SQL para la correcta depuración e interpretación de datos, así como el análisis de resultados, nuestras tablas presentadas anteriormente dan fe de ello.
-
-
-# **Análisis de Tienda "Barabara"**
-
-## Contexto
-Este conjunto de datos contiene información detallada sobre las ventas de la tienda "Barabara". Incluye datos sobre diversos productos vendidos, la fecha de cada venta, la categoría de los productos, la cantidad vendida, entre otros aspectos relevantes. Estos datos son esenciales para comprender el rendimiento de la tienda e identificar tendencias en las ventas. 
-
-
-## Objetivo
-Transformar y visualizar los datos de manera que permita a los propietarios de tienda obtener información valiosa que ayude a la gestión y toma de decisiones estratégicas en la tienda.
-
-
-## Resultados del análisis
-1. Aprovechar el boom de las nuevas tendencias en moda, por más extraño que parezca, sus clientas compran más ropa que cualquier otra categoría.
-![image](https://github.com/user-attachments/assets/7cd5fad1-929f-4e45-bcf6-542d197a3526)
-
-2. Realizar campañas gammers o donde se involucre equipos electrónicos, ya que sus clientes masculinos prefieren esta categoría.					
-![image](https://github.com/user-attachments/assets/cca4950a-9e07-4d93-bf41-9f49ec2e90df)
-
-3. Definitivamente su mercado meta actual son las damas entre 18 a 40 años, si usted integra campañas de moda, seguramente será un éxito.					
-![image](https://github.com/user-attachments/assets/be081b74-e911-4734-952b-ab60b1ee52a9)
-
-4. Recomiendo crear campañas que impulsen su categoría de "Belleza" ya que es la categoría con menos ventas actualmente, puede apoyarse de "influensers" y redes sociales para ello.
-
+En este apartado; realizamos consultas usando el lenguaje SQL para la correcta depuración e interpretación de datos, así como el análisis de resultados, nuestras tablas presentadas anteriormente dan fe de ello.
