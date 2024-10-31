@@ -16,7 +16,7 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 
 2. Su menú consta de una gran variedad de platillos; entre todas estas delicias, podrás disfrutar de platillos de comida Americana, Italiana, Asiática, Mexicana, etc.					
 
-3. Gracias a la preferencia de los clientes, estos son los platillos que han tenido mayor éxito:					
+3. Gracias a la preferencia de los clientes, estos son los platillos que han tenido mayor éxito:
 ![image](https://github.com/user-attachments/assets/6020895b-401f-4f9f-a8df-d428f1e57927)
 
 
